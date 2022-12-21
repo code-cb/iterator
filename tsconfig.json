@@ -1,0 +1,7 @@
+{
+  "extends": "@codecb/tsconfigs/tsconfig.esm-lib",
+  "compilerOptions": {
+    "baseUrl": "./src"
+  },
+  "include": ["./src", "./test"]
+}
